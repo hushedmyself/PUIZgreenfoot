@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=box
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ box\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=box()
+comment2.params=a
+comment2.target=box(int)
+comment3.params=
+comment3.target=int\ getIndex()
+comment4.params=MyWorld
+comment4.target=void\ addedToWorld(greenfoot.World)
+comment5.params=posx\ posy
+comment5.target=box\ checkC(int,\ int)
+comment6.params=posx\ posy\ mode
+comment6.target=void\ moveTo(int,\ int,\ int)
+comment7.params=
+comment7.target=void\ act()
+numComments=8
